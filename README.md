@@ -37,17 +37,15 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailahmedsh&show_icons=true&theme=radical)  
-![GitHub streak](https://streak-stats.demolab.com?user=ismailahmedsh&theme=radical)  
-
----
+<div align="center">
 
 ## 🏆 Highlights  
 - 🥇 **Implementation Consultant of Q1 FY25** – Sprinklr  
 - 🏅 **Certificate of Innovation** – Vitronic  
 - 🎖️ **Professional Engineering License (PEO, Canada)**  
 - ✈️ Featured in **Etihad Airways Press** for visa regulations innovation  
+
+</div>
 
 ---
 
